@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color:rgb(67, 4, 254);
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    margin-top : 150px;
+    border: solid rgb(0, 0, 0);
+    color:rgb(254, 4, 37);
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.textbox{
+    font-size : 20px;
+    margin-left: 10px;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: auto;
+}
+
+.label{
+    color:rgb(12, 254, 4);
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#submit{
+    color: rgb(12, 254, 4);
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-color: black;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+#submit:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(12, 254, 4);
+}
+#submit:active{
+    color: rgb(254, 4, 4);
+    background-color: rgb(255, 255, 255);
+}
